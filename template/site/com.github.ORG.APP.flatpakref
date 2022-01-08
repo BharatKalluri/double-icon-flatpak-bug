@@ -1,12 +1,12 @@
 [Flatpak Ref]
-Name=com.github.{GITHUB.ORG}.{GITHUB.APP}
-Url=https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL}/repo
+Name=com.github.BharatKalluri.double_icon_flatpak_bug
+Url=https://BharatKalluri.github.io/double-icon-flatpak-bug/repo
 Branch=stable
-Title={APP.NAME}
-Comment={APP.COMMENT}
-Description={APP.DESCRIPTION}
-Icon=https://raw.githubusercontent.com/{GITHUB.ORG.ORIGINAL}/{GITHUB.APP.ORIGINAL}/main/data/128.svg
-Homepage=https://{GITHUB.ORG.ORIGINAL}.github.io/{GITHUB.APP.ORIGINAL}
+Title=Splash
+Comment=Wallpaper changer
+Description=Unsplash based wallpaper changer
+Icon=https://raw.githubusercontent.com/BharatKalluri/double-icon-flatpak-bug/main/data/128.svg
+Homepage=https://BharatKalluri.github.io/double-icon-flatpak-bug
 IsRuntime=false
 RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
 GPGKey={GPGKey}
